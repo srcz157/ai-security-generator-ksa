@@ -3,8 +3,8 @@ import csv, os, pathlib
 IN = "docs/industries.csv"
 OUT = "docs/pages"
 pathlib.Path(OUT).mkdir(parents=True, exist_ok=True)
-HF = "<HF_LINK>"
-GM = "<GUMROAD_LINK>"
+HF = "https://huggingface.co/spaces/SRCZ/AI-Security-Generator"
+GM = "https://srczine.gumroad.com/l/cpdkx"
 
 with open(IN, newline='', encoding='utf-8') as f:
     for row in csv.DictReader(f):
