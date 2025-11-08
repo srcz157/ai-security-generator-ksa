@@ -1,0 +1,9 @@
+slug,title,doc_type,industry,region,standards
+incident-fintech-ksa,Incident Response Playbook for FinTech (KSA),Incident Response,FinTech,KSA (SAMA/NCA),"SAMA CSF;NCA ECC"
+vpn-policy-ksa,VPN Access Policy (KSA),VPN Policy,SMB,KSA (SAMA/NCA),"ISO 27001"
+email-policy-ksa,Email Security Policy (KSA SMEs),Email Security SOP,SMB,KSA (SAMA/NCA),"ISO 27001"
+access-control-ksa,Access Control Policy (KSA),Access Control Policy,Corporate,KSA (SAMA/NCA),"SAMA CSF"
+patch-policy-ksa,Patch Management SOP (KSA),Patch Mgmt SOP,Corporate,KSA (SAMA/NCA),"SAMA CSF"
+vuln-policy-ksa,Vulnerability Management SOP (KSA),Vulnerability Mgmt SOP,Corporate,KSA (SAMA CSF)
+dlp-policy-ksa,Data Loss Prevention SOP (KSA),DLP SOP,Corporate,KSA (SAMA CSF)
+awareness-plan-ksa,Security Awareness Plan (KSA),Awareness Plan,Corporate,KSA (SAMA CSF)
