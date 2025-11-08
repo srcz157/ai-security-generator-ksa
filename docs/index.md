@@ -2,8 +2,8 @@
 
 - Free AI Generator (Incident / Policies / Playbooks)
 - Paid Pack ($19): DOCX/PDF templates (SAMA/NCA/PCI/ISO)
-- Try the generator: <HF_LINK>
-- Get the pack on Gumroad: <GUMROAD_LINK>
+- Try the generator: [<HF_LINK>](https://huggingface.co/spaces/SRCZ/AI-Security-Generator)
+- Get the pack on Gumroad: [<GUMROAD_LINK>](https://srczine.gumroad.com/l/cpdkx)
 
 ## Why it helps
 - Save hours writing SOC/IR docs
